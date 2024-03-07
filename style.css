@@ -1,0 +1,16 @@
+h1, h2, .container, footer {
+    text-align: center;
+}
+
+.mainform {
+    text-align: center;
+}
+
+.bottom-line {
+    margin-top: 25px;
+}
+
+.tabla {
+    display: flex;
+    justify-content: center;
+}
